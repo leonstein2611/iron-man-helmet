@@ -1,0 +1,17 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Build / temporary files
+*.bin
+*.elf
+*.map
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -212,6 +212,10 @@ The completed helmet combines the moving faceplate, integrated electronics and i
 
 This project was particularly useful for combining several disciplines in one build: **CAD, 3D printing, mechanical integration, electronics and embedded C++ development**.
 
+## License
+
+This project is licensed under the MIT License. See [LICENSE.md](LICENSE.md) for details.
+
 ## Author
 
 **Leon Stein**
